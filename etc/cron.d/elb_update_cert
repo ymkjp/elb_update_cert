@@ -1,0 +1,2 @@
+# min hour day month dow (0 Sunday)
+34 20 * * * root bash /home/ec2-user/elb_update_cert.sh |& logger -t elb_update_cert -p local0.info
