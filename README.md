@@ -1,6 +1,11 @@
 elb_update_cert
 ===
 
+#### Document
+
+* [**A cron job to (re-)issue server certificate of Let's Encrypt and update ELB's certificate on Amazon Linux**](http://blog.xn--nyqr7s4vc72p.com/2016/01/a-script-to-re-issue-server-certificate.html)
+
+
 #### Setup Amazon Linux host
 
 ```bash
